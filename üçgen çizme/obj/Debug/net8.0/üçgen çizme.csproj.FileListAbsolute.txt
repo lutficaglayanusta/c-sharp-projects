@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\üçgen çizme\bin\Debug\net8.0\üçgen çizme.exe
+C:\Users\pc\Desktop\üçgen çizme\bin\Debug\net8.0\üçgen çizme.deps.json
+C:\Users\pc\Desktop\üçgen çizme\bin\Debug\net8.0\üçgen çizme.runtimeconfig.json
+C:\Users\pc\Desktop\üçgen çizme\bin\Debug\net8.0\üçgen çizme.dll
+C:\Users\pc\Desktop\üçgen çizme\bin\Debug\net8.0\üçgen çizme.pdb
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\üçgen çizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\üçgen çizme.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\üçgen çizme.AssemblyInfo.cs
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\üçgen çizme.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\üçgen çizme.dll
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\refint\üçgen çizme.dll
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\üçgen çizme.pdb
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\üçgen çizme.genruntimeconfig.cache
+C:\Users\pc\Desktop\üçgen çizme\obj\Debug\net8.0\ref\üçgen çizme.dll
